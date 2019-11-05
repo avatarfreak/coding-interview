@@ -1,4 +1,4 @@
-import pairwise from "./PairWise";
+import pairwise from "../PairWise";
 
 test("should return number", () => {
   expect(pairwise([1, 4, 2, 3, 0, 5], 7)).toEqual(11);
