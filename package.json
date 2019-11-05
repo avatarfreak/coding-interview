@@ -1,0 +1,23 @@
+{
+  "name": "coding-interview",
+  "version": "1.0.0",
+  "description": "coding-interview-practice",
+  "main": "main.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest --watchAll --runInBand"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  },
+  "author": "avatarfreak@dave",
+  "license": "ISC"
+}
