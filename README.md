@@ -6,13 +6,15 @@
 - [x] Inventory Update
 - [x] No Repeats Please
 - [x] Pairwise
-- [] Implement Bubble Sort
-- [] Implement Selection Sort
-- [] Implement Insertion Sort
-- [] Implement Quick Sort
-- [] Implement Merge Sort
+- [x] Implement Bubble Sort
+- [x] Implement Selection Sort
+- [x] Implement Insertion Sort
+- [x] Implement Quick Sort
+- [x] Implement Merge Sort
 
 ### Testing Framework
+
+All tests fullfilled by using Jest.
 
 - Jest
   - unit testing
