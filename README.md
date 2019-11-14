@@ -12,6 +12,12 @@
 - [x] Implement Quick Sort
 - [x] Implement Merge Sort
 
+### Data Structures
+
+- [x] Create a Stack Class
+- [x] Create a Queue Class
+- [x] Create a Priority Queue Class
+
 ### Testing Framework
 
 All tests fullfilled by using Jest.
