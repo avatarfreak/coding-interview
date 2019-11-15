@@ -17,6 +17,8 @@
 - [x] Create a Stack Class
 - [x] Create a Queue Class
 - [x] Create a Priority Queue Class
+- [x] Create a Circular Queue
+- [x] Create a Set Class
 
 ### Testing Framework
 
