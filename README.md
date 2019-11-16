@@ -22,6 +22,7 @@
 - [x] Perform a Union on Two Sets
 - [x] Perform an Intersection on Two Sets of Data
 - [x] Perform a Difference on Two Sets of Data
+- [x] Perform a Subset Check on Two Sets of Data
 
 ### Testing Framework
 
@@ -30,3 +31,7 @@ All tests fullfilled by using Jest.
 - Jest
   - unit testing
   - function testing
+
+### This coding challenges is from [FreeCodeCamp](https://www.freecodecamp.org):
+
+- https://www.freecodecamp.org/learn
