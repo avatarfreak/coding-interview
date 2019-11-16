@@ -35,3 +35,7 @@ All tests fullfilled by using Jest.
 ### This coding challenges is from [FreeCodeCamp](https://www.freecodecamp.org):
 
 - https://www.freecodecamp.org/learn
+
+### Author
+
+- [avatarfreak](https://github.com/avatarfreak)
