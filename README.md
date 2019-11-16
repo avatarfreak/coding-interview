@@ -19,6 +19,7 @@
 - [x] Create a Priority Queue Class
 - [x] Create a Circular Queue
 - [x] Create a Set Class
+- [x] Perform a Union on Two Sets
 
 ### Testing Framework
 
