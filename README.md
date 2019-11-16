@@ -20,6 +20,8 @@
 - [x] Create a Circular Queue
 - [x] Create a Set Class
 - [x] Perform a Union on Two Sets
+- [x] Perform an Intersection on Two Sets of Data
+- [x] Perform a Difference on Two Sets of Data
 
 ### Testing Framework
 
