@@ -1,4 +1,4 @@
-import Set from "../SetUnioin";
+import Set from "../SetUnion";
 
 const setA = new Set();
 
