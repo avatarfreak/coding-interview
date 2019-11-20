@@ -23,6 +23,13 @@
 - [x] Perform an Intersection on Two Sets of Data
 - [x] Perform a Difference on Two Sets of Data
 - [x] Perform a Subset Check on Two Sets of Data
+- [x] Create and Add to Sets in ES6
+- [x] Remove items from a set in ES6
+- [x] Use .has and .size on an ES6 Set
+- [x] Use Spread and Notes for ES5 Set() Integration
+- [x] Create a Map Data Structure
+- [x] Create an ES6 JavaScript Map
+- [x] Create a Hash Table
 
 ### Testing Framework
 
