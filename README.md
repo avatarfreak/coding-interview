@@ -30,6 +30,12 @@
 - [x] Create a Map Data Structure
 - [x] Create an ES6 JavaScript Map
 - [x] Create a Hash Table
+- [x] Work with Nodes in a Linked List
+- [x] Create a Linked List Class
+- [x] Remove Elements from a Linked List
+- [x] Search within a Linked List
+- [x] Remove Elements from a Linked List by Index
+- [x] Add Elements at a Specific Index in a Linked List
 
 ### Testing Framework
 
