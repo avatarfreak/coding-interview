@@ -7,7 +7,6 @@ const Node = function(data, prev) {
 const DoublyLinkedList = function() {
   this.head = null;
   this.tail = null;
-  this.length = 0;
   // change code below this line
   //Add method
   this.add = function(element) {
@@ -21,7 +20,6 @@ const DoublyLinkedList = function() {
       node.prev = this.tail;
       this.tail = node;
     }
-    this.length++;
   };
 
   //Remove
