@@ -20,7 +20,6 @@ const DoublyLinkedList = function() {
       node.prev = this.tail;
       this.tail = node;
     }
-    this.length++;
   };
 
   //Reverse method
