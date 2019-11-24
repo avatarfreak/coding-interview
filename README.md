@@ -36,6 +36,8 @@
 - [x] Search within a Linked List
 - [x] Remove Elements from a Linked List by Index
 - [x] Add Elements at a Specific Index in a Linked List
+- [x] Create a Doubly Linked List
+- [x] Reverse a Doubly Linked List
 
 ### Testing Framework
 
