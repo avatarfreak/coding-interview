@@ -38,6 +38,10 @@
 - [x] Add Elements at a Specific Index in a Linked List
 - [x] Create a Doubly Linked List
 - [x] Reverse a Doubly Linked List
+- [x] Find the Minimum and Maximum Value in a Binary Search Tree
+- [x] Add a New Element to a Binary Search Tree
+- [x] Check if an Element is Present in a Binary Search Tree
+- [x] Check if Tree is Binary Search Tree
 
 ### Testing Framework
 
